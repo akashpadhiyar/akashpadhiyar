@@ -22,27 +22,9 @@
 </a>  
 </div>  
   
-
-
-
 ### Glad to see you here!  
 I’m a full-stack developer & trainer.  
-  
-
 <br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -74,7 +56,6 @@ I’m a full-stack developer & trainer.
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
