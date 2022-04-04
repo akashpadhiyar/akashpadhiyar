@@ -1,4 +1,4 @@
-## Hey 👋, I'm Aaksh Padhiyar!  
+## Hey 👋, I'm Akash Padhiyar!  
   
 
 <div align="center">
